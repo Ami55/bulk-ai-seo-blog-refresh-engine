@@ -751,6 +751,10 @@ export default function App() {
           onRetryJina={handleRetryWithJina}
         />
 
+        <footer className="mt-12 border-t border-slate-200 py-8 text-center text-xs text-slate-500">
+          © 2026 Bulk AI SEO Blog Refresh Engine. Developed by Ami - SEO Girl. All rights reserved.
+        </footer>
+
       </div>
     </div>
   );
