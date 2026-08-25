@@ -1,0 +1,8 @@
+{
+  "name": "Bulk AI SEO Blog Refresh Engine",
+  "description": "An offline-first multi-URL blog crawler and SEO refresh analyzer powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
