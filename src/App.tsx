@@ -752,7 +752,7 @@ export default function App() {
         />
 
         <footer className="mt-12 border-t border-slate-200 py-8 text-center text-xs text-slate-500">
-          © 2026 Bulk AI SEO Blog Refresh Engine. Developed by Ami - SEO Girl. All rights reserved.
+          © 2026 Bulk AI SEO Blog Refresh Engine. Developed by <strong>SEO Girl - Ami</strong>. All rights reserved.
         </footer>
 
       </div>
